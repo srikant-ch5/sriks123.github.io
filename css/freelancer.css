@@ -59,6 +59,11 @@ section {
       font-size: 3rem;
       line-height: 2.5rem; } }
 
+#im{
+  width:500px;
+  height:250px;
+}
+
 .btn-xl {
   padding: 1rem 1.75rem;
   font-size: 1.25rem; }
